@@ -13,11 +13,24 @@ A great way to explore the models that are available to you on [Workers AI](/wor
 
 You can [download the Workers AI Text Generation Exploration notebook](/workers-ai/static/documentation/notebooks/text-generation-model-exploration.ipynb) or view the embedded notebook below.
 
-{{<youtube id="9Cqzt8M3l1s">}}
+  <div style="position: relative; padding-top: 56.25%;">
+    <iframe
+        src="https://customer-1mwganm1ma0xgnmj.cloudflarestream.com/4b4f0b9d7783512b8787e39424cfccd5/iframe?preload=true&"
+        style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+        allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+        allowfullscreen="true"
+    ></iframe>
+</div>
+
+ <!-- <iframe
+    src="https://customer-igynxd2rwhmuoxw8.cloudflarestream.com/9f9e3b02b91f135e26e6d3412ae52fe8/iframe?preload=none&poster=https%3A%2F%2Fcustomer-igynxd2rwhmuoxw8.cloudflarestream.com%2F9f9e3b02b91f135e26e6d3412ae52fe8%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D9m45s%26height%3D600&startTime=1m28s"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+  </div> -->
 
 [comment]: <> (The markdown below is auto-generated from https://github.com/craigsdennis/notebooks-cloudflare-workers-ai)
-
----
 
 ## How to Choose The Right Text Generation Model
 
